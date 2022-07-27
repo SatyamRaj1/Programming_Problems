@@ -1,2 +1,2 @@
 # Programming_Problems
-Solutions of Popular Programming Problems
+Solutions of CSES and Popular Programming Problems
